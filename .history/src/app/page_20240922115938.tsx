@@ -1,0 +1,8 @@
+
+export default function Home() {
+  return (
+    <div className="fle max-h-screen fl">
+      hi
+    </div>
+  );
+}

@@ -1,5 +1,5 @@
 {
-  "name": "project-management-app",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -34,6 +34,9 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.13",
     "postcss": "^8",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
+    "tailwind-merge": "^2.5.2",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
