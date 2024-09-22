@@ -34,7 +34,7 @@ const Sidebar = () => {
             </div>
           </div>
         </div>
-        {/* NAVBAR LINKS */}
+        {/* PROJECTS */}
       </div>
     </div>
   );
